@@ -1,0 +1,24 @@
+body {
+  background-image: url(https://pastransport.ru/wp-content/uploads/2019/05/aviasejls-sajt.jpg);
+   -moz-background-size: 100%;
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+}
+select {
+	border-radius: 10px;
+	font-size: 24px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color: aliceblue;
+}
+
+p {
+	align-self: flex-end;
+	color: crimson;
+	font-size: 24px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+.wrapper {
+  display: flex;
+}
